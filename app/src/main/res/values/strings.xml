@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bookCollection</string>
+
+    <string name="bottom_navigation_menu_home">Home</string>
+    <string name="bottom_navigation_menu_my_collection">My collection</string>
+    <string name="bottom_navigation_menu_add">Add</string>
+</resources>

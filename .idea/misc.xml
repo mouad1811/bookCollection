@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable-v24/bottom_navigation_colors.xml" value="0.2898148148148148" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable-v24/ic_baseline_add_24.xml" value="0.2898148148148148" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable-v24/ic_baseline_favorite_24.xml" value="0.337037037037037" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.337037037037037" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable/ic_baseline_favorite_purple_24.xml" value="0.337037037037037" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable/ic_favorite_purple_24.xml" value="0.337037037037037" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable/ic_favorite_shadow_24.xml" value="0.337037037037037" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/drawable/selector.xml" value="0.2898148148148148" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/layout/activity_add.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/layout/activity_my_collection.xml" value="0.21603260869565216" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/layout/activity_view.xml" value="0.2" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/layout/item_book.xml" value="0.22" />
+        <entry key="..\:/Users/mouad/AndroidStudioProjects/bookCollection/app/src/main/res/menu/menu.xml" value="0.1935185185185185" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
